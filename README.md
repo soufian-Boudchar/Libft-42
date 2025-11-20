@@ -1,9 +1,14 @@
+<div align="center">
+
 # 📚 Libft - Your First C Library
 
 ![42 School](https://img.shields.io/badge/School-42-black?style=for-the-badge&logo=42)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
 ![Score](https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge)
 ![Norminette](https://img.shields.io/badge/Norminette-Passing-green?style=for-the-badge)
+
+</div>
+
 
 ## 🗣️ About The Project
 
